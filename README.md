@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Shweta8248
-- 👀 I’m interested in codeing
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning electronic and telecommunication engineering
 - 💞️ I’m looking to collaborate on html,java and css
-- 📫 How to reach me .
+- 📫 i am from kolhapur,maharashtra
 - 😄 Pronouns: shweta
-- ⚡ Fun fact: ...
+  
 
 <!---
 Shweta8248/Shweta8248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
