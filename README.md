@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shweta8248
+- 👋 Hi, I’m Shweta
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning electronic and telecommunication engineering
 - 💞️ I’m looking to collaborate on linkedin
